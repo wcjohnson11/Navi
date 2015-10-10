@@ -1,0 +1,18 @@
+{
+  "name": "deku-Navi",
+  "description": "A Navi component built with Deku",
+  "author": "Will Johnson",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wcjohnson11/deku-Navi"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "duo": "^0.15.3",
+    "duo-babel": "^6.0.0",
+    "eslint": "^0.22.1"
+  }
+}
