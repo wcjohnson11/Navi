@@ -5,6 +5,8 @@
 
 A Navi component built with Deku.
 
+![](http://fc07.deviantart.net/fs71/i/2012/189/f/4/navi_hey_by_angelemlin-d56hhbc.png)
+
 <img src="" width="300" height="200">
 
 ## Installation
